@@ -7,6 +7,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        method()
 
         printMessage()
     }
@@ -14,5 +15,9 @@ class MainActivity : AppCompatActivity() {
 
     private fun printMessage() {
         println("Hello World")
+    }
+
+    private fun method() {
+        println("Vikas Suthar")
     }
 }
