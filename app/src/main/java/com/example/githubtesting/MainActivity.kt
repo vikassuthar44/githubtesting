@@ -8,8 +8,15 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         method()
+
+        printMessage()
     }
-    
+
+
+    private fun printMessage() {
+        println("Hello World")
+    }
+
     private fun method() {
         println("Vikas Suthar")
     }
