@@ -10,8 +10,13 @@ class MainActivity : AppCompatActivity() {
         method()
 
         printMessage()
+
+        worldType()
     }
 
+    private fun worldType() {
+        println("Hey this is new method")
+    }
 
     private fun printMessage() {
         println("Hello World")
