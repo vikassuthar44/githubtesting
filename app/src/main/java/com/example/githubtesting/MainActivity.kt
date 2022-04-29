@@ -10,8 +10,13 @@ class MainActivity : AppCompatActivity() {
         method()
 
         printMessage()
+
+        printSum()
     }
 
+    private fun printSum() {
+        println("2+2=4")
+    }
 
     private fun printMessage() {
         println("Hello World")
