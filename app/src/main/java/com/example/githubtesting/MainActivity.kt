@@ -12,10 +12,15 @@ class MainActivity : AppCompatActivity() {
         printMessage()
 
         printSum()
+
+        worldType()
     }
 
     private fun printSum() {
         println("2+2=4")
+    }
+    private fun worldType() {
+        println("Hey this is new method")
     }
 
     private fun printMessage() {
