@@ -167,3 +167,9 @@ class MainActivity : AppCompatActivity() {
         println("develop method")
     }
 }
+    private fun newMethod() {
+        println("new Method")
+    }
+
+}
+
