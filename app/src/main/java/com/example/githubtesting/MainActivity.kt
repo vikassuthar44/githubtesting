@@ -161,4 +161,8 @@ class MainActivity : AppCompatActivity() {
     private fun method() {
         println("Vikas Suthar")
     }
+
+    private fun newMetgod() {
+        println("asdcasd")
+    }
 }
