@@ -162,24 +162,9 @@ class MainActivity : AppCompatActivity() {
         println("Vikas Suthar")
     }
 
-    private fun newMetgod() {
-        println("asdcasd")
+    private fun newMethod() {
+        println("new Method")
     }
 
-    private fun newMethod()
-
-    private fun newMetgod() {
-        println("asdcasd")
-    }
 }
 
-    private newMethod()
-    {
-        println("Vikas Suthar")
-    }
-
-    private fun newMethod()
-    {
-        println("Vikas Suthar")
-    }
-}
