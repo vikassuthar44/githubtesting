@@ -161,8 +161,9 @@ class MainActivity : AppCompatActivity() {
     private fun method() {
         println("Vikas Suthar")
     }
-    
-    private newMethod()
+
+    private fun newMethod()
     {
-         println("Vikas Suthar")
+        println("Vikas Suthar")
     }
+}
