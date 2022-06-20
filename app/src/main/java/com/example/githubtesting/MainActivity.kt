@@ -162,6 +162,8 @@ class MainActivity : AppCompatActivity() {
         println("Vikas Suthar")
     }
 
+    private fun newMethod()
+
     private fun newMetgod() {
         println("asdcasd")
     }
@@ -169,5 +171,6 @@ class MainActivity : AppCompatActivity() {
 
     private newMethod()
     {
-         println("Vikas Suthar")
+        println("Vikas Suthar")
     }
+}
