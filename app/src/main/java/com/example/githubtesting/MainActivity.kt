@@ -30,4 +30,8 @@ class MainActivity : AppCompatActivity() {
     private fun method() {
         println("Vikas Suthar")
     }
-}
+    
+    private newMethod()
+    {
+         println("Vikas Suthar")
+    }
