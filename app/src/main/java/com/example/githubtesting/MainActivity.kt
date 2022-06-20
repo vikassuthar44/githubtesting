@@ -166,3 +166,8 @@ class MainActivity : AppCompatActivity() {
         println("asdcasd")
     }
 }
+
+    private newMethod()
+    {
+         println("Vikas Suthar")
+    }
