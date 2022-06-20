@@ -162,6 +162,11 @@ class MainActivity : AppCompatActivity() {
         println("Vikas Suthar")
     }
 
+
+    private fun developMethod() {
+        println("develop method")
+    }
+}
     private fun newMethod() {
         println("new Method")
     }
